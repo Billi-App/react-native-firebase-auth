@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "io.invertase.firebase.auth.react-native-firebase_auth-merged_res-29:/xml/image_share_filepaths.xml",
+        "source": "io.invertase.firebase.auth.react-native-firebase_auth-browser-1.4.0-0:/xml/image_share_filepaths.xml"
+    },
+    {
+        "merged": "io.invertase.firebase.auth.react-native-firebase_auth-merged_res-29:/xml/rn_dev_preferences.xml",
+        "source": "io.invertase.firebase.auth.react-native-firebase_auth-jetified-react-android-0.72.15-release-13:/xml/rn_dev_preferences.xml"
+    }
+]
